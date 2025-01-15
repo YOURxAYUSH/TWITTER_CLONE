@@ -1,9 +1,17 @@
+
+
+function main(){
+    
+    if(window.innerWidth<=768){
+
 menu.addEventListener("click", () =>{
     document.querySelector(".first").style.display="block";
     document.querySelector(".first").style.backgroundColor="black";
  })
 
  let home = document.querySelector(".home")
+
+
 
 
 home.addEventListener("click", ()=>{
@@ -31,3 +39,9 @@ back.addEventListener("click", ()=>{
    
 
 })
+}
+}
+
+main();
+
+window.addEventListener("resize", main);
