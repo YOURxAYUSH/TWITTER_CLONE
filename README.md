@@ -1,7 +1,8 @@
 # Twitter Clone UI
 
 A responsive Twitter clone UI built using **Tailwind CSS**, **HTML**, and **JavaScript**. This project showcases the ability to create a clean, user-friendly interface similar to Twitter with a focus on responsiveness and smooth navigation.
-#Twitter UI CLONE
+
+
 ## Features
 
 - **Fully Responsive**: Optimized for both desktop and mobile devices, ensuring a seamless user experience.
@@ -25,7 +26,7 @@ open index.html
 
 Alternatively, you can view the live demo here: https://yourxayush.github.io/TWITTER_CLONE
 
-Here’s a sample **README.md** for your Twitter Clone project:
+Twitter Clone project:
 
 ```markdown
 # Twitter Clone UI
